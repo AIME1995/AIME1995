@@ -1,0 +1,42 @@
+🏀 NBA Analytics Dashboard - Power BI
+Ce projet Power BI propose une analyse interactive et visuellement immersive de la NBA, à travers un tableau de bord structuré et intuitif. Il s'appuie sur les données des franchises, des joueurs et des statistiques collectives sur les 10 dernières saisons.
+
+📌 Objectifs du rapport :
+Offrir une exploration fluide de l’univers NBA.
+
+Permettre une comparaison des performances des équipes et des joueurs au fil du temps.
+
+Fournir une expérience utilisateur personnalisée grâce à des visuels dynamiques et des interactions avancées.
+
+🎯 Fonctionnalités clés :
+🖼️ Visualisation & Navigation
+Thème double (clair/sombre) avec bascule interactive.
+
+Visuels personnalisés :
+
+Segments dynamiques avec logos des équipes et filtres alphabétiques.
+
+Graphiques temporels pour suivre l'évolution des performances.
+
+Infobulles enrichies pour un aperçu rapide des données.
+
+Glossaire intégré accessible à tout moment.
+
+🗂️ Structure multi-pages
+🏠 Page d’accueil : introduction à l’univers NBA.
+
+📍 Page franchise : carte interactive + infos équipes NBA.
+
+📊 Statistiques franchises : tendances sur 10 ans, classements et comparaisons.
+
+📈 Classement franchises : classement selon plusieurs indicateurs clés.
+
+👤 Page joueurs : profils complets des joueurs NBA.
+
+🏅 Classements joueurs : filtres dynamiques par saison et statistiques.
+
+📊 Démographie : analyse des données (âge, taille, origine, etc.).
+
+📘 Glossaire : définition des métriques et concepts NBA.
+
+💡 Ce projet met en avant les capacités de Power BI pour le storytelling visuel, la dataviz avancée, et l’analyse exploratoire des données sportives.
